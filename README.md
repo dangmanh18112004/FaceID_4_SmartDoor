@@ -8,3 +8,8 @@
 - Hồ Đăng Mạnh
 - Hà Mạnh Tuân
 ## How to run
+
+
+## Demo Video (Will be updated)
+https://www.youtube.com/watch?v=sZhGX2LY0kU (Face Recognition Demo)
+https://www.youtube.com/watch?v=3elCsiQ8vK0 (Android App demo)
