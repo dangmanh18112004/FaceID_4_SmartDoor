@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FaceID_4_SmartDoor (will be updated soon)
 
 ## Introduction
