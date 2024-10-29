@@ -1,4 +1,4 @@
-# FaceID_4_SmartDoor
+# FaceID_4_SmartDoor (will be updated soon)
 
 ## Introduction
 - Đây là github cho project của môn CPV301 (Computer Vision) tại FPT HCMC University
@@ -11,5 +11,5 @@
 
 
 ## Demo Video (Will be updated)
-https://www.youtube.com/watch?v=sZhGX2LY0kU (Face Recognition Demo)
-https://www.youtube.com/watch?v=3elCsiQ8vK0 (Android App demo)
+- https://www.youtube.com/watch?v=sZhGX2LY0kU (Face Recognition Demo)
+- https://www.youtube.com/watch?v=3elCsiQ8vK0 (Android App demo)
